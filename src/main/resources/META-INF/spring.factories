@@ -1,0 +1,3 @@
+cn.cbzcb.pay.PayChannel=\
+cn.cbzcb.pay.AlipayChannelImpl,\
+cn.cbzcb.pay.WeChatChannelImpl
